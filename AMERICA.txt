@@ -10,4 +10,6 @@ Pepsi
 VISA
 フォード
 IBM
-
+GE
+GM
+ユニオンパシフィック
