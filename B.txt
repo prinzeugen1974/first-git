@@ -2,4 +2,8 @@ B
 
 こちらはBのテキストです。
 
-B = B
+Bが頭文字の単語
+
+Beer
+Book
+Brain
