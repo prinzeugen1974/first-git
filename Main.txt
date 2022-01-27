@@ -1,10 +1,4 @@
-B
 
-こちらはBのテキストです。
+こちら
+Mainのテキストです。
 
-Bが頭文字の単語
-
-Beer
-Book
-Brain
-Break
