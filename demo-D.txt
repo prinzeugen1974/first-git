@@ -5,3 +5,4 @@ D
 Dが頭文字の単語
 drive
 dog
+DEEP LEARNING
